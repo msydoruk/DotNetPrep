@@ -18,27 +18,17 @@ DotNet Interview Preparation Hub offers a collection of categorized .NET intervi
 
 ---
 
-## 🛠️ **Tech Stack**
-- **Frontend**: React.js
-- **Backend**: ASP.NET Core
-- **Database**: PostgreSQL
-- **Other Tools**: Docker, Entity Framework Core
+## 📊 **Database Schema**
+The database is structured to manage questions, answers, categories, and code examples.
+
+### **Diagram**
+![Database Schema Diagram](https://www.mermaidchart.com/raw/976ad9c7-d002-4e06-8c45-9b9e25ebb875?theme=light&version=v0.1&format=svg)
 
 ---
 
-## 📂 **Project Structure**
-```plaintext
-|-- .github/
-|-- src/
-    |-- backend/
-        |-- models/
-        |-- controllers/
-        |-- services/
-        |-- repositories/
-    |-- frontend/
-        |-- components/
-        |-- pages/
-        |-- styles/
-    |-- tests/
-|-- README.md
-|-- LICENSE
+## ⚙️ **Setup Instructions**
+
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/yourusername/dotnet-interview-prep.git
+cd dotnet-interview-prep
